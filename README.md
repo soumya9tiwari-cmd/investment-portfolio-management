@@ -96,6 +96,7 @@ The portfolio construction process follows a top-down investment approach:
 ## Repository Contents
 
 - Investment_Portfolio_Management_Model.xlsx
+- Investment_Policy_Statement.pdf
 
 ---
 
